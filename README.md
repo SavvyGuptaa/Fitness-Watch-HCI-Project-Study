@@ -1,6 +1,4 @@
 # Fitness-Watch-HCI-Project-Study
-
-# Description
 This repository contains the project study I conducted as part of my Human-Computer Interaction (HCI) course at Vellore Institute of Technology. The focus of this study was on a Fitness Watch, where I explored various aspects related to user experience and interface design.
 
 # Project Components
